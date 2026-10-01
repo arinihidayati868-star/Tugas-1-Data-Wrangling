@@ -1,0 +1,10 @@
+Nama Kolom,Tipe Data,Missing,% Missing,Nilai Unik,Sampel Nilai
+order_id,object,0,0%,30,"ORD001, ORD002"
+customer_id,object,0,0%,10,"C001, C002"
+order_date,datetime64,0,0%,25,9/1/2026
+quantity,int64,0,0%,5,"1, 2, 3"
+unit_price,int64,0,0%,20,"50000, 75000"
+total_amount,int64,0,0%,25,"100000, 150000"
+customer_name,object,0,0%,10,"Andi, Budi"
+membership_level,object,0,0%,4,"Gold, Silver"
+courier,object,0,0%,4,"JNE, J&T"
